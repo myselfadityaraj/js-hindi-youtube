@@ -10,6 +10,7 @@ let valueInNumber = Number(score)
 
 // "33" => 33
 // "33abc" => NaN
+here if we want to get type of 33abc it will give output number but its not a number as its value is Nan
 //  true => 1; false => 0
 
 let isLoggedIn = "hitesh"
